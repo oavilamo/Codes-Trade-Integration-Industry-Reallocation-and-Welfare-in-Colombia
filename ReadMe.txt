@@ -44,11 +44,12 @@ Model_***.m: Contain the models to run
 	Model_NS_BondBack.mod: Transitory tariff cut
 	Model_NS_NoHab.mod: Model with no Habits
 	Model_NS_NoBAC.mod: Model with lower bond adjustment costs
-	Model_NS_NoBAC.mod: Model with No Bonds
+	Model_NS_NoBond.mod: Model with No Bonds
 	Model_NS_BondStatic.mod: Model with static export decision
 
 
 6. Welfare.mat:
+	You need to run first all the Models.
 	Loads the results from the different scenarios and calculates the static and dynamic welfare changes for each of them. 
 	Replicates Table 4.
 
