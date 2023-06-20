@@ -1,4 +1,5 @@
 %% Alternative Policies 
+%% First run Model_Benchmark.m to generate initial steady state Ini_ss
 
 load Ini_ss
 
