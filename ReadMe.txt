@@ -1,6 +1,7 @@
 Manual for replicating results "Trade Integration, Industry Reallocation, and Welfare in Colombia"
 
-Files Description:
+Files Description: 
+Model_***.m: Contain the models to run
 
 1. Model_Benchmark.m: 
 	Runs the benchmark model from the paper and stores the initial steady state at Ini_ss.mat. This steady state is used as a starting point in some of the extensions.
